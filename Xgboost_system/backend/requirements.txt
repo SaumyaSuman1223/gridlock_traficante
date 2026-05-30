@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+geopandas
+pydantic
+scikit-learn
+xgboost
+pygeohash
+optuna
+joblib

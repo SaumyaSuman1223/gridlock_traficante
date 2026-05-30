@@ -1,0 +1,1 @@
+{"RoadType": ["Highway", "Residential", "Street", "Unknown"], "LargeVehicles": ["Allowed", "Not Allowed"], "Landmarks": ["No", "Yes"], "Weather": ["Foggy", "Rainy", "Snowy", "Sunny", "Unknown"]}
